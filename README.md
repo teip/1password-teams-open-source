@@ -3447,3 +3447,7 @@ https://tvheadend.org
 Networked community gardens on the chattyverse. \
 https://commune.sh \
 https://github.com/commune-os/
+
+### Teip
+We are a technology company that offers various financial services: payments, accounts and credits.
+https://teip.io
